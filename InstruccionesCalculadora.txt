@@ -34,10 +34,17 @@ SALTO5:
 27	STK UP 			 - d01
 28	SHF UP    		 - d11
 SALTO6:
-29	VOID //POW SALTO7	 - 000 ;POTENCIA
+29	POW SALTO7	 	 - b25 ;POTENCIA
+30	ALU RESET                - 510
+31	ALU CALC		 - 500
+32	WAI CALC_DONE		 - C00
+33	MOV ALU[POW]             - 106
+34	ALU RESET		 - 510
+35	STK UP 			 - d01
+36	SHF UP    		 - d11
 SALTO7:
-30	ENT SALTO8  		 - 421 ;ENTER
-31	STK DOWN  		 - d00
-32	SHF DOWN  		 - d10
+37	ENT SALTO8  		 - 428 ;ENTER
+38	STK DOWN  		 - d00
+39	SHF DOWN  		 - d10
 SALTO8:
-33	JMP MAIN                 - 201
+40	JMP MAIN                 - 201
