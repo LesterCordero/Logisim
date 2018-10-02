@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Manual de Usuario}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Introducci\IeC {\'o}n de esta secci\IeC {\'o}n}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Utilizaci\IeC {\'o}n B\IeC {\'a}sica}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Explicaci\IeC {\'o}n de la Pila}{3}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Operaciones Combinadas}{3}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Casos de Error}{3}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}Rango Num\IeC {\'e}rico Operable}{3}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}Ejemplos de Uso}{3}{subsection.1.7}
+\contentsline {section}{\numberline {2}Manual de Desarrollador}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Introducci\IeC {\'o}n de esta secci\IeC {\'o}n}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Entrada y Salida de la Calculadora}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Lista de Interrupciones}{3}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Conjunto de Instrucciones}{3}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Sistema de Memoria}{3}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Unidad Aritm\IeC {\'e}tica L\IeC {\'o}gica}{3}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}Banderas de Respuesta}{3}{subsection.2.7}
+\contentsline {subsection}{\numberline {2.8}Circuitos Simples}{3}{subsection.2.8}
+\contentsline {subsection}{\numberline {2.9}Programa ensamblador de la Calculadora}{3}{subsection.2.9}
